@@ -28,3 +28,7 @@ module comparator_2bit_behavioral (
         end
     end
 endmodule
+mv Q2.v Assignment1
+git add.
+git commit -m "Moved Q2.v to Assignment1"
+git push
